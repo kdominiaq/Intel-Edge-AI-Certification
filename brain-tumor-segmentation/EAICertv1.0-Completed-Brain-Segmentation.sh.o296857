@@ -1,0 +1,39 @@
+
+########################################################################
+#      Date:           Mon Nov 22 05:08:10 PST 2021
+#    Job ID:           296857.v-qsvr-1.devcloud-edge
+#      User:           u115517
+# Resources:           neednodes=1:idc001skl,nodes=1:idc001skl,walltime=00:10:00
+########################################################################
+
+[setupvars.sh] OpenVINO environment initialized
+
+########################################################################
+# End of output for job 296857.v-qsvr-1.devcloud-edge
+# Date: Mon Nov 22 05:08:21 PST 2021
+########################################################################
+
+sys.argv[0]=[/etc/collectd/telemetrySender.py]
+sys.argv[1]=[u115517]
+sys.argv[2]=[296857.v-qsvr-1.devcloud-edge]
+sys.argv[3]=[10]
+sys.argv[4]=[1637586491]
+sys.argv[5]=[1637586501]
+sys.argv[6]=[idc001skl_compnode_openvino-latest_intel-core_i5-6500te_intel-hd-530_ram8gb]
+USER_ID=[u115517]
+JOB_ID=[296857]
+JOB_RUNTIME=[10]
+FROM_TIME=[1637586491]
+TO_TIME=[1637586501]
+HOST_TYPE=[idc001skl_compnode_openvino-latest_intel-core_i5-6500te_intel-hd-530_ram8gb]
+EDGE_NAME=[s001-n001]
+PBS_O_WORKDIR=[/home/u115517/Reference-samples/iot-devcloud/openvino-dev-latest/certification-program/English/brain-tumor-segmentation]
+APPLICATION_NAME=[brain-tumor-segmentation]
+INTEL_SKU=[core-i5]
+customFound  True
+in send app metrics writer
+idc001skl_compnode_openvino-latest_intel-core_i5-6500te_intel-hd-530_ram8gb
+cpu data info  0
+removing the json
+Your telemetry account is not created
+InfluxDBClient.write_points(metric_list) result_success:[True]

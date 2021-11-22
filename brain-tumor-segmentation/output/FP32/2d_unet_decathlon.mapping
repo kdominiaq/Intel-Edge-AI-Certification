@@ -1,0 +1,1243 @@
+<?xml version="1.0"?>
+<mapping>
+	<map>
+		<framework name="mrimages" output_port_id="Func/StatefulPartitionedCall/input/_0:0" />
+		<IR name="mrimages" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/input/_0" output_port_id="Func/StatefulPartitionedCall/input/_0:0" />
+		<IR name="mrimages" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="mrimages" output_port_id="Func/StatefulPartitionedCall/input/_0:0" />
+		<IR name="mrimages" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="mrimages" output_port_id="mrimages:0" />
+		<IR name="mrimages" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/input/_0" output_port_id="mrimages:0" />
+		<IR name="mrimages" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="mrimages" output_port_id="mrimages:0" />
+		<IR name="mrimages" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeAb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolA/MaxPool" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolA/MaxPool:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolA/MaxPool" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolA/MaxPool" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolA/MaxPool:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolA/MaxPool" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeBb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolB/MaxPool" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolB/MaxPool:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolB/MaxPool" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolB/MaxPool" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolB/MaxPool:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolB/MaxPool" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/spatial_dropout2d/Identity:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/spatial_dropout2d/Identity" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/spatial_dropout2d/Identity:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/spatial_dropout2d/Identity:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/spatial_dropout2d/Identity" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeCb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolC/MaxPool" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolC/MaxPool:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolC/MaxPool" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolC/MaxPool" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolC/MaxPool:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolC/MaxPool" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/spatial_dropout2d_1/Identity" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/spatial_dropout2d_1/Identity:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/spatial_dropout2d_1/Identity:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/spatial_dropout2d_1/Identity" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/spatial_dropout2d_1/Identity:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeDb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolD/MaxPool" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolD/MaxPool:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolD/MaxPool" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolD/MaxPool" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolD/MaxPool:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/poolD/MaxPool" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/encodeEb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/conv2d_transpose/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/conv2d_transpose/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/conv2d_transpose/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/conv2d_transpose/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/conv2d_transpose/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/conv2d_transpose/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/Shape/GatherNCHWtoNHWC" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/Shape:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/Shape/GatherNCHWtoNHWC" output_port_id="3" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/Shape" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/Shape:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/Shape/GatherNCHWtoNHWC" output_port_id="3" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack_1" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack_1:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack_1" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack_1" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack_1:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack_1" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack_2" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack_2:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack_2" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack_2" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack_2:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice/stack_2" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice" output_port_id="4" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/strided_slice" output_port_id="4" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/conv2d_transpose" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/conv2d_transpose:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/conv2d_transpose" output_port_id="3" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/conv2d_transpose" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/conv2d_transpose:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/conv2d_transpose" output_port_id="3" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvE/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatD/concat" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatD/concat:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatD/concat" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatD/concat" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatD/concat:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatD/concat" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeCb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/conv2d_transpose/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/conv2d_transpose/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/conv2d_transpose/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/conv2d_transpose/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/conv2d_transpose/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/conv2d_transpose/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/Shape/GatherNCHWtoNHWC" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/Shape:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/Shape/GatherNCHWtoNHWC" output_port_id="3" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/Shape" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/Shape:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/Shape/GatherNCHWtoNHWC" output_port_id="3" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack_1" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack_1:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack_1" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack_1" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack_1:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack_1" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack_2" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack_2:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack_2" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack_2" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack_2:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice/stack_2" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice" output_port_id="4" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/strided_slice" output_port_id="4" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/conv2d_transpose" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/conv2d_transpose:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/conv2d_transpose" output_port_id="3" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/conv2d_transpose" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/conv2d_transpose:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/conv2d_transpose" output_port_id="3" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvC/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatC/concat" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatC/concat:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatC/concat" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatC/concat" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatC/concat:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatC/concat" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeBb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/conv2d_transpose/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/conv2d_transpose/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/conv2d_transpose/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/conv2d_transpose/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/conv2d_transpose/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/conv2d_transpose/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/Shape/GatherNCHWtoNHWC" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/Shape:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/Shape/GatherNCHWtoNHWC" output_port_id="3" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/Shape" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/Shape:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/Shape/GatherNCHWtoNHWC" output_port_id="3" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack_1" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack_1:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack_1" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack_1" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack_1:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack_1" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack_2" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack_2:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack_2" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack_2" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack_2:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice/stack_2" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice" output_port_id="4" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/strided_slice" output_port_id="4" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/conv2d_transpose" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/conv2d_transpose:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/conv2d_transpose" output_port_id="3" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/conv2d_transpose" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/conv2d_transpose:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/conv2d_transpose" output_port_id="3" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvB/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatB/concat" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatB/concat:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatB/concat" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatB/concat" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatB/concat:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatB/concat" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAa/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/decodeAb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/conv2d_transpose/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/conv2d_transpose/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/conv2d_transpose/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/conv2d_transpose/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/conv2d_transpose/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/conv2d_transpose/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/Shape/GatherNCHWtoNHWC" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/Shape:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/Shape/GatherNCHWtoNHWC" output_port_id="3" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/Shape" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/Shape:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/Shape/GatherNCHWtoNHWC" output_port_id="3" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack_1" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack_1:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack_1" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack_1" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack_1:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack_1" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack_2" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack_2:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack_2" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack_2" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack_2:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice/stack_2" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice" output_port_id="4" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/strided_slice" output_port_id="4" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/conv2d_transpose" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/conv2d_transpose:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/conv2d_transpose" output_port_id="3" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/conv2d_transpose" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/conv2d_transpose:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/conv2d_transpose" output_port_id="3" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/transconvA/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatA/concat" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatA/concat:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatA/concat" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatA/concat" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatA/concat:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/concatA/concat" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOuta/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Relu" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Relu:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/convOutb/Relu" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Conv2D/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Conv2D/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Conv2D/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Conv2D" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Conv2D:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Conv2D" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/BiasAdd/ReadVariableOp" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/BiasAdd/ReadVariableOp:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/BiasAdd/ReadVariableOp" output_port_id="0" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/BiasAdd/Add" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/BiasAdd" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/BiasAdd:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/BiasAdd/Add" output_port_id="2" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/output/_47" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="Identity" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/Identity" output_port_id="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="Func/StatefulPartitionedCall/output/_47:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="Func/StatefulPartitionedCall/output/_47:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/output/_47" output_port_id="Func/StatefulPartitionedCall/output/_47:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="Identity" output_port_id="Func/StatefulPartitionedCall/output/_47:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/Identity" output_port_id="Func/StatefulPartitionedCall/output/_47:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="Identity:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="Identity:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/output/_47" output_port_id="Identity:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="Identity" output_port_id="Identity:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/Identity" output_port_id="Identity:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="StatefulPartitionedCall/Identity:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="StatefulPartitionedCall/Identity:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="Func/StatefulPartitionedCall/output/_47" output_port_id="StatefulPartitionedCall/Identity:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="Identity" output_port_id="StatefulPartitionedCall/Identity:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+	<map>
+		<framework name="StatefulPartitionedCall/Identity" output_port_id="StatefulPartitionedCall/Identity:0" />
+		<IR name="StatefulPartitionedCall/2DUNet_Brats_Decathlon/PredictionMask/Sigmoid" output_port_id="1" />
+	</map>
+</mapping>
