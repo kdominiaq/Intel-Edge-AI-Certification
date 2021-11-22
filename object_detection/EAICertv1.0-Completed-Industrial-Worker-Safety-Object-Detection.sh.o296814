@@ -1,0 +1,39 @@
+
+########################################################################
+#      Date:           Mon Nov 22 02:25:38 PST 2021
+#    Job ID:           296814.v-qsvr-1.devcloud-edge
+#      User:           u115517
+# Resources:           neednodes=1:idc001skl,nodes=1:idc001skl,walltime=00:10:00
+########################################################################
+
+[setupvars.sh] OpenVINO environment initialized
+
+########################################################################
+# End of output for job 296814.v-qsvr-1.devcloud-edge
+# Date: Mon Nov 22 02:25:50 PST 2021
+########################################################################
+
+sys.argv[0]=[/etc/collectd/telemetrySender.py]
+sys.argv[1]=[u115517]
+sys.argv[2]=[296814.v-qsvr-1.devcloud-edge]
+sys.argv[3]=[11]
+sys.argv[4]=[1637576739]
+sys.argv[5]=[1637576750]
+sys.argv[6]=[idc001skl_compnode_openvino-latest_intel-core_i5-6500te_intel-hd-530_ram8gb]
+USER_ID=[u115517]
+JOB_ID=[296814]
+JOB_RUNTIME=[11]
+FROM_TIME=[1637576739]
+TO_TIME=[1637576750]
+HOST_TYPE=[idc001skl_compnode_openvino-latest_intel-core_i5-6500te_intel-hd-530_ram8gb]
+EDGE_NAME=[s001-n001]
+PBS_O_WORKDIR=[/home/u115517/Reference-samples/iot-devcloud/openvino-dev-latest/certification-program/English/object_detection]
+APPLICATION_NAME=[object_detection]
+INTEL_SKU=[core-i5]
+customFound  True
+in send app metrics writer
+idc001skl_compnode_openvino-latest_intel-core_i5-6500te_intel-hd-530_ram8gb
+cpu data info  56
+removing the json
+Your telemetry account is not created
+Exception in send_metric_list_to_influxdb: [b'{"error":"timeout"}\n']
